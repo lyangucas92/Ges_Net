@@ -1,1 +1,1 @@
-# Ges_Net
+sEMG-based dynamic gesture precition
